@@ -1,10 +1,10 @@
 {
-  "name": "react-bootstrap",
-  "version": "0.17.0",
+  "name": "tangrammer-react-bootstrap",
+  "version": "0.17.3",
   "description": "Bootstrap 3 components build with React",
   "repository": {
     "type": "git",
-    "url": "react-bootstrap/react-bootstrap"
+    "url": "tangrammer/react-bootstrap-bis"
   },
   "homepage": "http://react-bootstrap.github.io/",
   "scripts": {
